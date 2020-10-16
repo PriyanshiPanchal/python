@@ -1,0 +1,241 @@
+Date,Total_Collection,Revenue_Type
+2020-01-01,8008,Screen-1
+2020-01-01,1651,Screen-2
+2020-01-01,1615,Screen-3
+2020-01-01,5005,Food & Beverages
+2020-01-01,664,Others
+2020-01-02,8000,Screen-1
+2020-01-02,5000,Screen-2
+2020-01-02,6000,Screen-3
+2020-01-02,2000,Food & Beverages
+2020-01-02,800,Others
+2020-01-03,10000,Screen-1
+2020-01-03,6442,Screen-2
+2020-01-03,4664,Screen-3
+2020-01-03,900,Food & Beverages
+2020-01-03,500,Others
+2020-01-04,644,Screen-1
+2020-01-04,9121,Screen-2
+2020-01-04,5000,Screen-3
+2020-01-04,700,Food & Beverages
+2020-01-04,641,Others
+2020-02-01,5654,Screen-1
+2020-02-01,2314,Screen-2
+2020-02-01,4580,Screen-3
+2020-02-01,1254,Food & Beverages
+2020-02-01,800,Others
+2020-02-02,5841,Screen-1
+2020-02-02,6131,Screen-2
+2020-02-02,4664,Screen-3
+2020-02-02,2331,Food & Beverages
+2020-02-02,354,Others
+2020-02-03,4691,Screen-1
+2020-02-03,1346,Screen-2
+2020-02-03,1641,Screen-3
+2020-02-03,131,Food & Beverages
+2020-02-03,1364,Others
+2020-02-04,8974,Screen-1
+2020-02-04,1464,Screen-2
+2020-02-04,7664,Screen-3
+2020-02-04,5640,Food & Beverages
+2020-02-04,464,Others
+2020-03-01,7974,Screen-1
+2020-03-01,1644,Screen-2
+2020-03-01,1651,Screen-3
+2020-03-01,4684,Food & Beverages
+2020-03-01,646,Others
+2020-03-02,7922,Screen-1
+2020-03-02,964,Screen-2
+2020-03-02,1651,Screen-3
+2020-03-02,665,Food & Beverages
+2020-03-02,651,Others
+2020-03-03,4654,Screen-1
+2020-03-03,4637,Screen-2
+2020-03-03,4646,Screen-3
+2020-03-03,6453,Food & Beverages
+2020-03-03,613,Others
+2020-03-04,6632,Screen-1
+2020-03-04,1643,Screen-2
+2020-03-04,6131,Screen-3
+2020-03-04,6311,Food & Beverages
+2020-03-04,131,Others
+2020-04-01,6846,Screen-1
+2020-04-01,3513,Screen-2
+2020-04-01,5133,Screen-3
+2020-04-01,1310,Food & Beverages
+2020-04-01,461,Others
+2020-04-02,4645,Screen-1
+2020-04-02,1313,Screen-2
+2020-04-02,3131,Screen-3
+2020-04-02,1351,Food & Beverages
+2020-04-02,163,Others
+2020-04-03,5131,Screen-1
+2020-04-03,1311,Screen-2
+2020-04-03,1313,Screen-3
+2020-04-03,464,Food & Beverages
+2020-04-03,163,Others
+2020-04-04,4646,Screen-1
+2020-04-04,1134,Screen-2
+2020-04-04,4646,Screen-3
+2020-04-04,469,Food & Beverages
+2020-04-04,894,Others
+2020-05-01,5461,Screen-1
+2020-05-01,6311,Screen-2
+2020-05-01,4645,Screen-3
+2020-05-01,654,Food & Beverages
+2020-05-01,564,Others
+2020-05-02,4654,Screen-1
+2020-05-02,7986,Screen-2
+2020-05-02,1314,Screen-3
+2020-05-02,465,Food & Beverages
+2020-05-02,4644,Others
+2020-05-03,5131,Screen-1
+2020-05-03,1311,Screen-2
+2020-05-03,1313,Screen-3
+2020-05-03,464,Food & Beverages
+2020-05-03,163,Others
+2020-05-04,4646,Screen-1
+2020-05-04,1134,Screen-2
+2020-05-04,4646,Screen-3
+2020-05-04,469,Food & Beverages
+2020-05-04,894,Others
+2020-06-01,5461,Screen-1
+2020-06-01,6311,Screen-2
+2020-06-01,4645,Screen-3
+2020-06-01,654,Food & Beverages
+2020-06-01,564,Others
+2020-06-02,4654,Screen-1
+2020-06-02,7986,Screen-2
+2020-06-02,1314,Screen-3
+2020-06-02,465,Food & Beverages
+2020-06-02,4644,Others
+2020-06-03,5131,Screen-1
+2020-06-03,1311,Screen-2
+2020-06-03,1313,Screen-3
+2020-06-03,464,Food & Beverages
+2020-06-03,163,Others
+2020-06-04,4646,Screen-1
+2020-06-04,1134,Screen-2
+2020-06-04,4646,Screen-3
+2020-06-04,469,Food & Beverages
+2020-06-04,894,Others
+2020-07-01,8008,Screen-1
+2020-07-01,1651,Screen-2
+2020-07-01,1615,Screen-3
+2020-07-01,5005,Food & Beverages
+2020-07-01,664,Others
+2020-07-02,8000,Screen-1
+2020-07-02,5000,Screen-2
+2020-07-02,6000,Screen-3
+2020-07-02,2000,Food & Beverages
+2020-07-02,800,Others
+2020-07-03,10000,Screen-1
+2020-07-03,6442,Screen-2
+2020-07-03,4664,Screen-3
+2020-07-03,900,Food & Beverages
+2020-07-03,500,Others
+2020-07-04,644,Screen-1
+2020-07-04,9121,Screen-2
+2020-07-04,5000,Screen-3
+2020-07-04,700,Food & Beverages
+2020-07-04,641,Others
+2020-08-01,1500,Screen-1
+2020-08-01,2500,Screen-2
+2020-08-01,3561,Screen-3
+2020-08-01,1200,Food & Beverages & Beverages
+2020-08-01,2566,Advertisment
+2020-08-02,1600,Screen-1
+2020-08-02,1700,Screen-2
+2020-08-02,2500,Screen-3
+2020-08-02,2655,Food & Beverages & Beverages
+2020-08-02,1250,Advertisment
+2020-08-03,2100,Screen-1
+2020-08-03,2700,Screen-2
+2020-08-03,1455,Screen-3
+2020-08-03,1200,Food & Beverages & Beverages
+2020-08-03,2300,Advertisment
+2020-08-04,4500,Screen-1
+2020-08-04,5100,Screen-2
+2020-08-04,6000,Screen-3
+2020-08-04,3200,Food & Beverages & Beverages
+2020-08-04,4000,Advertisment
+2020-09-01,2500,Screen-1
+2020-09-01,1200,Screen-2
+2020-09-01,3600,Screen-3
+2020-09-01,4500,Food & Beverages & Beverages
+2020-09-01,8000,Advertisment
+2020-09-02,1456,Screen-1
+2020-09-02,2578,Screen-2
+2020-09-02,9874,Screen-3
+2020-09-02,2569,Food & Beverages & Beverages
+2020-09-02,1456,Advertisment
+2020-09-03,2356,Screen-1
+2020-09-03,3578,Screen-2
+2020-09-03,9875,Screen-3
+2020-09-03,1254,Food & Beverages & Beverages
+2020-09-03,2587,Advertisment
+2020-09-04,2589,Screen-1
+2020-09-04,3658,Screen-2
+2020-09-04,1456,Screen-3
+2020-09-04,1245,Food & Beverages & Beverages
+2020-09-04,7890,Advertisment
+2020-10-01,1478,Screen-1
+2020-10-01,2569,Screen-2
+2020-10-01,1500,Screen-3
+2020-10-01,1400,Food & Beverages & Beverages
+2020-10-01,2560,Advertisment
+2020-10-02,2570,Screen-1
+2020-10-02,2890,Screen-2
+2020-10-02,2654,Screen-3
+2020-10-02,2145,Food & Beverages & Beverages
+2020-10-02,9871,Advertisment
+2020-10-03,956,Screen-1
+2020-10-03,9856,Screen-2
+2020-10-03,9631,Screen-3
+2020-10-03,7520,Food & Beverages & Beverages
+2020-10-03,4152,Advertisment
+2020-10-04,1256,Screen-1
+2020-10-04,3256,Screen-2
+2020-10-04,3879,Screen-3
+2020-10-04,9856,Food & Beverages & Beverages
+2020-10-04,1254,Advertisment
+2020-11-01,1478,Screen-1
+2020-11-01,2569,Screen-2
+2020-11-01,1500,Screen-3
+2020-11-01,1400,Food & Beverages & Beverages
+2020-11-01,2560,Advertisment
+2020-11-02,2570,Screen-1
+2020-11-02,2890,Screen-2
+2020-11-02,2654,Screen-3
+2020-11-02,2145,Food & Beverages & Beverages
+2020-11-02,9871,Advertisment
+2020-11-03,956,Screen-1
+2020-11-03,9856,Screen-2
+2020-11-03,9631,Screen-3
+2020-11-03,7520,Food & Beverages & Beverages
+2020-11-03,4152,Advertisment
+2020-11-04,1256,Screen-1
+2020-11-04,3256,Screen-2
+2020-11-04,3879,Screen-3
+2020-11-04,9856,Food & Beverages & Beverages
+2020-11-04,1254,Advertisment
+2020-12-01,2500,Screen-1
+2020-12-01,1200,Screen-2
+2020-12-01,3600,Screen-3
+2020-12-01,4500,Food & Beverages & Beverages
+2020-12-01,8000,Advertisment
+2020-12-02,1456,Screen-1
+2020-12-02,2578,Screen-2
+2020-12-02,9874,Screen-3
+2020-12-02,2569,Food & Beverages & Beverages
+2020-12-02,1456,Advertisment
+2020-12-03,2356,Screen-1
+2020-12-03,3578,Screen-2
+2020-12-03,9875,Screen-3
+2020-12-03,1254,Food & Beverages & Beverages
+2020-12-03,2587,Advertisment
+2020-12-04,2589,Screen-1
+2020-12-04,3658,Screen-2
+2020-12-04,1456,Screen-3
+2020-12-04,1245,Food & Beverages & Beverages
+2020-12-04,7890,Advertisment
