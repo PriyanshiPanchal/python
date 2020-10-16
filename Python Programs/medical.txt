@@ -1,0 +1,5 @@
+filter the record by age limits
+age limits+category+batch no
+age limit+ category+ form type
+filter the records by ingredients
+advance search the medicines
